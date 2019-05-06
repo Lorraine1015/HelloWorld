@@ -1,1 +1,1 @@
-color azul
+blanco
